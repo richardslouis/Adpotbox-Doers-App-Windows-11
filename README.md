@@ -1,4 +1,4 @@
-# Adpotbox-Doers
+# Adpotbox (Richiesoft)
 Adpotbox App [Win11 version]
 
 # Overview
